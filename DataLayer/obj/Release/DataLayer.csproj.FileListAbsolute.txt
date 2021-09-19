@@ -1,0 +1,14 @@
+E:\MyIBB\DataLayer\bin\Release\DataLayer.dll.config
+E:\MyIBB\DataLayer\bin\Release\DataLayer.dll
+E:\MyIBB\DataLayer\bin\Release\DataLayer.pdb
+E:\MyIBB\DataLayer\bin\Release\EntityFramework.dll
+E:\MyIBB\DataLayer\bin\Release\EntityFramework.SqlServer.dll
+E:\MyIBB\DataLayer\bin\Release\EntityFramework.xml
+E:\MyIBB\DataLayer\bin\Release\EntityFramework.SqlServer.xml
+E:\MyIBB\DataLayer\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+E:\MyIBB\DataLayer\obj\Release\DataLayer.Migrations.Initial_DataBase.resources
+E:\MyIBB\DataLayer\obj\Release\DataLayer.Migrations.Add_Tags_Pages.resources
+E:\MyIBB\DataLayer\obj\Release\DataLayer.Migrations.AddAdminLogins.resources
+E:\MyIBB\DataLayer\obj\Release\DataLayer.csproj.GenerateResource.Cache
+E:\MyIBB\DataLayer\obj\Release\DataLayer.dll
+E:\MyIBB\DataLayer\obj\Release\DataLayer.pdb
